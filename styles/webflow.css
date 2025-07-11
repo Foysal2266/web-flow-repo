@@ -55,8 +55,53 @@ nav ul li{
     font-weight: bold;
     color: #252432;
 }
-.content-main{
+
+.content{
     display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
 }
+.paragraph{
+    color: #252432;
+}
+.main-con{
+    max-width: 517px;
+}
+.pic{
+    border-radius: 15px;
+}
+.productive{
+    margin-left: 550px;
+    
+    
+    
+    
 
+}
+.picc{
+    border: none;
+    border-radius: 15px;
+    padding: 50px;
+    }
+.section-title{
 
+}
+.section-title{
+    text-align: center;
+    font-size: 42px;
+    font-weight: bold;
+}
+.say-items{
+    display: flex;
+    justify-content: space-around;
+}
+.item-title{
+    color: #1E1E1E;
+    font-weight: bold;
+    margin: 20px 200px;
+    font-size: 20px;
+}
+.item-description{
+    color: #1E1E1E;
+}
+    
