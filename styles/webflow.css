@@ -31,6 +31,10 @@ nav ul li{
     padding: 12px 35px;
     border-radius: 5px;
     border: none;
+    
+    
+    
+    
 }
 .banner-title{
     justify-content: center;
@@ -38,6 +42,7 @@ nav ul li{
     font-size: 60px;
     color: #252432;
     display:block;
+    text-align: center;
     
     
     
@@ -68,20 +73,13 @@ nav ul li{
     max-width: 517px;
 }
 .pic{
-    border-radius: 15px;
+    border-radius: 40px;
 }
-.productive{
-    margin-left: 550px;
-    
-    
-    
-    
 
-}
 .picc{
-    border: none;
+    
     border-radius: 15px;
-    padding: 50px;
+    
     }
 .section-title{
 
@@ -103,5 +101,40 @@ nav ul li{
 }
 .item-description{
     color: #1E1E1E;
+}
+.description{
+    color: #000000;
+    text-align: center;
+    
+}
+.icon{
+     background-color: #4E47FF;
+    font-weight: bold;
+    font-size: 16px;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 5px;
+    border: none;
+    margin-right: 800px;
+
+}
+.iconn{
+    background-color: #4E47FF;
+    font-weight: bold;
+    font-size: 16px;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 900px;
+
+}
+.bg-color{
+    background-color: #FFFFFF;
+
+}
+.ppp{
+    margin-top: 10px;
+    border-radius: 40px;
 }
     
