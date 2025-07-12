@@ -92,6 +92,8 @@ nav ul li{
 .say-items{
     display: flex;
     justify-content: space-around;
+    
+    
 }
 .item-title{
     color: #1E1E1E;
@@ -198,5 +200,8 @@ footer input[type="text"], footer input[type="email"], footer textarea{
 }
 .des{
     color: #8987A1;
+}
+.imagee{
+    display: flex;
 }
     
